@@ -1,4 +1,4 @@
-# Python-Programming
+# Python-Programming Exercises 
 The programming exercises are taken from the Book "Introduction to Programming using Python" by Y. Daniel Liang. 
 
 Chapter 2 - Elementary Programming. <br>
